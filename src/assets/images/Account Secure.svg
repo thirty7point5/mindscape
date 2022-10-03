@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.462" cy="0.558" r="0.356" gradientTransform="matrix(0.647, 0.762, -0.497, 0.421, 0.433, -0.034)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5e4f7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-Account_Secure">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Account_Secure" data-name="Account Secure" clip-path="url(#clip-Account_Secure)">
+    <rect width="375" height="812" fill="#706f93"/>
+    <path id="Base_Gradient" data-name="Base Gradient" d="M481.989,0c266.2,0,481.989,250.354,481.989,559.18s-215.794,559.18-481.989,559.18S0,868.007,0,559.18,215.794,0,481.989,0Z" transform="translate(-322.175 -547.506)" opacity="0.483" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

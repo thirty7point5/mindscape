@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="483.328" height="385.88" viewBox="0 0 483.328 385.88">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.292" y1="0.841" x2="0.131" y2="0.914" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#a1a0b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-1.118" x2="0.475" y2="0.631" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6b6b8d"/>
+      <stop offset="1" stop-color="#a1a0b9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.102" x2="0.5" y2="2.842" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a1a0b9"/>
+      <stop offset="0.308" stop-color="#828298"/>
+      <stop offset="1" stop-color="#6b6b8d"/>
+    </linearGradient>
+    <filter id="Path_448" x="39.708" y="121.538" width="402" height="233.635" filterUnits="userSpaceOnUse">
+      <feOffset dy="-9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Dashboard_Frame" data-name="Dashboard Frame" transform="translate(53.208 -461.327)">
+    <path id="Path_450" data-name="Path 450" d="M2388,496.454V717.965h376.913l-1.483-222.353a334.608,334.608,0,0,0-375.05.748" transform="translate(-2388 76.035)" opacity="0.368" fill="url(#linear-gradient)"/>
+    <path id="Path_449" data-name="Path 449" d="M2388,494.795v215.17h376.913l-1.483-215.988a342.8,342.8,0,0,0-375.05.726" transform="translate(-2388 102.035)" fill="url(#linear-gradient-2)"/>
+    <g transform="matrix(1, 0, 0, 1, -53.21, 461.33)" filter="url(#Path_448)">
+      <path id="Path_448-2" data-name="Path 448" d="M2762.965,593.071a280.625,280.625,0,0,0-375-1.471V727.135h374.609Z" transform="translate(-2334.76 -376.46)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

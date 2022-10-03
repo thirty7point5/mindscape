@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.867" x2="0.5" y2="-0.071" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a1a0b9"/>
+      <stop offset="1" stop-color="#6b6b8d"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.462" cy="0.558" r="0.356" gradientTransform="matrix(0.647, 0.762, -0.497, 0.421, 0.433, -0.034)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5e4f7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-Emergency">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Emergency" clip-path="url(#clip-Emergency)">
+    <rect width="375" height="812" fill="url(#linear-gradient)"/>
+    <path id="Base_Gradient" data-name="Base Gradient" d="M529.675,0C822.206,0,1059.35,275.122,1059.35,614.5s-237.143,614.5-529.675,614.5S0,953.884,0,614.5,237.144,0,529.675,0Z" transform="translate(-308.175 -374.77)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>
